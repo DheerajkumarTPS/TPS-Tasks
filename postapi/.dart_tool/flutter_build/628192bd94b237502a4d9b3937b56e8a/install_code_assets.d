@@ -1,1 +1,0 @@
- C:\\devlopment\\projects\\postapi\\.dart_tool\\flutter_build\\628192bd94b237502a4d9b3937b56e8a\\native_assets.json: 
